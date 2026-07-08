@@ -4,6 +4,6 @@ slug  : the-positronic-brain
 seal  : cc1449be9980777e0d49cd0be05a1b3abbb20ac5b0cbb13834b4f21865e9ddc4
 prev  : edf551b8b379713b2c5d02d8ff2764d9d8a720758131eee7b9c82ae6d1c2198f
 link  : 5490537319e43cdbbd3ee4f5395c7e47c72fe949e27c3a02f480a37792cf7869
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
